@@ -1,0 +1,115 @@
+02:30:34.556 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+02:30:34.601 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+02:30:36.285 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+02:30:36.809 [main] INFO  testCase.shipRequiest01 - Refresh 
+02:30:37.846 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+13:18:49.350 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+13:18:49.403 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+13:18:51.469 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+13:18:51.901 [main] INFO  testCase.shipRequiest01 - Refresh 
+13:18:52.949 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+13:22:34.161 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+13:22:34.222 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+13:22:35.905 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+13:22:36.424 [main] INFO  testCase.shipRequiest01 - Refresh 
+13:22:37.468 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+13:24:47.070 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+13:24:47.118 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+13:24:48.776 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+13:24:49.234 [main] INFO  testCase.shipRequiest01 - Refresh 
+13:24:50.896 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+19:34:16.373 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+19:34:16.432 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+19:34:17.742 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+19:34:18.172 [main] INFO  testCase.shipRequiest01 - Refresh 
+19:34:19.223 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+19:37:53.945 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+19:37:53.988 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+19:37:54.624 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+19:37:55.087 [main] INFO  testCase.shipRequiest01 - Refresh 
+19:37:55.118 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+19:46:54.537 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+19:46:54.583 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+19:46:56.001 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+19:46:56.431 [main] INFO  testCase.shipRequiest01 - Refresh 
+19:46:56.981 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+19:48:09.288 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+19:48:09.338 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+19:48:12.087 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+19:48:12.638 [main] INFO  testCase.shipRequiest01 - Refresh 
+19:48:12.673 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+19:54:58.090 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+19:54:58.130 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+19:54:59.778 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+19:55:00.246 [main] INFO  testCase.shipRequiest01 - Refresh 
+19:55:00.272 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+20:00:07.147 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+20:00:07.195 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+20:00:08.800 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+20:00:09.381 [main] INFO  testCase.shipRequiest01 - Refresh 
+20:00:09.410 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+20:03:14.033 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+20:03:14.068 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+20:03:15.467 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+20:03:15.928 [main] INFO  testCase.shipRequiest01 - Refresh 
+20:03:16.503 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+20:03:59.837 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+20:03:59.869 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+20:04:01.144 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+20:04:01.582 [main] INFO  testCase.shipRequiest01 - Refresh 
+20:04:02.102 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+20:05:01.910 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+20:05:01.949 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+20:05:03.625 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+20:05:04.174 [main] INFO  testCase.shipRequiest01 - Refresh 
+20:05:04.202 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+20:06:36.834 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+20:06:36.873 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+20:06:38.095 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+20:06:38.593 [main] INFO  testCase.shipRequiest01 - Refresh 
+20:06:39.151 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+20:09:28.260 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+20:09:28.295 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+20:09:30.143 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+20:09:30.648 [main] INFO  testCase.shipRequiest01 - Refresh 
+20:09:31.480 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+20:14:51.833 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+20:14:51.872 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+20:14:54.140 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+20:14:54.679 [main] INFO  testCase.shipRequiest01 - Refresh 
+20:14:57.486 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+20:19:29.966 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+20:19:30.009 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+20:19:31.697 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+20:19:32.131 [main] INFO  testCase.shipRequiest01 - Refresh 
+20:19:34.742 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+20:22:49.030 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+20:22:49.070 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+20:22:51.572 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+20:22:52.121 [main] INFO  testCase.shipRequiest01 - Refresh 
+20:22:53.151 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+20:07:06.144 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+20:07:06.168 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+20:07:07.009 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+20:07:07.317 [main] INFO  testCase.shipRequiest01 - Refresh 
+20:07:08.811 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+13:25:26.118 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+13:25:26.158 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+13:25:28.125 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+13:25:28.616 [main] INFO  testCase.shipRequiest01 - Refresh 
+13:25:31.012 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+10:55:46.890 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+10:55:46.931 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+10:55:48.221 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+10:55:48.661 [main] INFO  testCase.shipRequiest01 - Refresh 
+10:55:50.497 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+16:30:25.415 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+16:30:25.440 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+16:30:27.481 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+16:30:27.798 [main] INFO  testCase.shipRequiest01 - Refresh 
+16:30:30.621 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
+01:31:55.430 [main] INFO  testCase.shipRequiest01 - *** Starting logInTest01 *** 
+01:31:55.471 [main] INFO  testCase.shipRequiest01 -  Get bot log in URL  
+01:31:57.126 [main] INFO  testCase.shipRequiest01 - Giving the user login Data 
+01:31:57.798 [main] INFO  testCase.shipRequiest01 - Refresh 
+01:31:59.020 [main] INFO  testCase.shipRequiest01 - Validating My Suite 
